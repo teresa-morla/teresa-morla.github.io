@@ -24,73 +24,61 @@ author_profile: true
 ### Thesis Title: ICT to Improve e/a Processes in Students with NEAE in Early Childhood Education
 
 - **Presentation Date:** 15/12/2021
-- **Student's Name:** Cristina Martinez
 - **Institution:** Universidad de Nebrija
 
 ### Thesis Title: Feeding the Future
 
 - **Presentation Date:** 22/07/2021
-- **Student's Name:** Verónica Grau Romero
 - **Institution:** Universidad de Nebrija
 
 ### Thesis Title: Economics Project in Multitasking Cooperative Classrooms of 2nd Year of Baccalaureate
 
 - **Presentation Date:** 22/07/2021
-- **Student's Name:** Beatriz Carretero Chamorro
 - **Institution:** Universidad de Nebrija
 
 ### Thesis Title: Mathematics and ICT, Learning Experiences in Early Childhood Education
 
 - **Presentation Date:** 13/09/2021
-- **Student's Name:** Irene Luque
 - **Institution:** Universidad de Nebrija
 
 ### Thesis Title: Intervention of Interactive English Groups Through Digital Tablets
 
 - **Presentation Date:** 15/09/2021
-- **Student's Name:** Alfonso Moreno
 - **Institution:** Universidad de Nebrija
 
 ### Thesis Title: Proposal for Teaching Local Heritage in Early Childhood Education Using ICT
 
 - **Presentation Date:** 10/12/2020
-- **Student's Name:** Victoria Rojas Segura
 - **Institution:** Universidad de Nebrija
 
 ### Thesis Title: Cataloging of Digital Tools that Help Develop Linguistic Competencies in Early Childhood Education
 
 - **Presentation Date:** 16/07/2020
-- **Student's Name:** Cristina Concepción Catalá
 - **Institution:** Universidad de Nebrija
 
 ### Thesis Title: Education in Values and ICT in Early Childhood Education
 
 - **Presentation Date:** 08/10/2020
-- **Student's Name:** Carmen Trenas
 - **Institution:** Universidad de Nebrija
 
 ### Thesis Title: School Bullying. Intervention Proposal
 
 - **Presentation Date:** 08/10/2020
-- **Student's Name:** Cristina Calo
 - **Institution:** Universidad de Nebrija
 
 ### Thesis Title: Case Study of the Training Received in the Master's for Secondary Education Teacher Training
 
 - **Presentation Date:** 22/06/2020
-- **Student's Name:** Maria Pilar Guillamón Gracia
 - **Institution:** Universidad de Nebrija
 
 ### Thesis Title: Personalized Education in Vocational Training
 
 - **Presentation Date:** 22/06/2020
-- **Student's Name:** Estefania Rodríguez
 - **Institution:** Universidad de Nebrija
 
 ### Thesis Title: "From Exclusion to Inclusion of the Yucatec Mayas: A Historical and Social Approach"
 
 - **Presentation Date:** 27/09/2023
-- **Student's Name:** Isabel Paredes
 - **Institution:** Universitat de Barcelona
 
 <a name="innovation-projects"></a>
