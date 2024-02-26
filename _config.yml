@@ -12,7 +12,7 @@ title                    : "Teresa Morlà-Folch"
 title_separator          : "-"
 name                     : &name "Teresa Morlà-Folch"
 description              : &description "personal description"
-url                      : https://teresa-morla.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://teresa.morla-folch.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "teresa-morla/teresa-morla.github.io"
 
