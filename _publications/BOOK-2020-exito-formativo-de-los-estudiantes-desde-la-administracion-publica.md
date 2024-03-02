@@ -1,8 +1,8 @@
 ---
 title: "Éxito formativo de los estudiantes desde la administración pública. El caso de la red de centros de innovación y formación ocupacional en Cataluña"
 collection: publications
-permalink: /publication/2017-12-19-exito-formativo-de-los-estudiantes-desde-la-administracion-publica
-date: 2017-12-19
+permalink: /publication/2020-exito-formativo-de-los-estudiantes-desde-la-administracion-publica
+date: 2020-01-01
 venue: 'Investigación y docencia en comunicación'
 citation: 'Mara, L.C., Brunet, I., Joanpere, M., & Morlà-Folch, T. (2020).  “Éxito formativo de los estudiantes desde la administración pública. El caso de la red de centros de innovación y formación ocupacional en Cataluña”. pp.67-89. In F. Molina-Luque; K. Del Orbe; P. Sanvicen-Torné (Eds.) Investigación y docencia en comunicación. Espai/temps. ISBN: 978-84-9144-227-1'
 category: 'book'

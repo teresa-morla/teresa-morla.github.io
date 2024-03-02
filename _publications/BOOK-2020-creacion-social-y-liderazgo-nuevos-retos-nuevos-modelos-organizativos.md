@@ -1,8 +1,8 @@
 ---
 title: "Creación social y liderazgo. Nuevos retos, nuevos modelos organizativo"
 collection: publications
-permalink: /publication/2020-01-01-creacion-social-y-liderazgo-nuevos-retos-nuevos-modelos-organizativos
-date: 2019-12-11
+permalink: /publication/2020-creacion-social-y-liderazgo-nuevos-retos-nuevos-modelos-organizativos
+date: 2020-01-01
 venue: 'Espai/temps'
 citation: 'Joanpere, M., Morlà-Folch, T., Brunet, I. & Mara, L.C. (2020). “Creación social y liderazgo. Nuevos retos, nuevos modelos organizativo”. pp.93-106. In F. Molina-Luque; K. Del Orbe; P. Sanvicen-Torné (Eds.) Investigación y docencia en comunicación y sociología de las organizaciones. Espai/temps. ISBN: 978-84-9144-227-1'
 category: 'book'
