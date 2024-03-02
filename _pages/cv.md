@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Curriculum"
+permalink: /curriculum/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,8 +11,8 @@ redirect_from:
 
 ## Education
 
-* 2019 - **Ph.D. Sociology** (Distinction award). Dissertation title: "The impact of creativity. Case study in the field of architecture and biotechnology". Qualification: Excellent Cum Laude. Supervisor: Prof. [Ignasi Brunet Icart](https://www.urv.cat/html/docencia-per-centre/general-I1201.php)
-* 2015 - **Master's degree "Sociological Research"**. [Universitat de Barcelona]. Date of qualification:
+* 2019 - **Ph.D. Sociology** (Distinction award). Dissertation title: "The impact of creativity. Case study in the field of architecture and biotechnology". Qualification: Excellent *Cum Laude*. [Universitat Rovira i Virgili]
+* 2015 - **Master's degree "Sociological Research"**. Dissertation title: "Sense and meaning of dialogic literary gatherings with Muslim mothers" .[Universitat de Barcelona].
 * 2013 - **Degree in Early Childhood Education**. [Universitat Rovira i Virgili]
 
 ## Professional activities
@@ -32,7 +32,7 @@ redirect_from:
   * [Universitat Rovira i Virgili]
   * Part-time
 
-* *September 2020 - Desember 2020 (4 months)*
+* *September 2019 - Desember 2020 (16 months)*
   * Social impact technician in the "Biochitinase" project.
   * [Universitat Autònoma de Barcelona]
   * Part-time
