@@ -11,6 +11,7 @@ citation: 'Morlà Folch, T., Eudave Muñoz, D., & Brunet Icart, I. (2018). Habil
 category: 'paper'
 scopus: 'Q2'
 excerpt: 'El objetivo del estudio es analizar los obstáculos que afronta el profesorado universitario para la enseñanza de la creatividad, y concretar actuaciones educativas que superan estos obstáculos. Se presenta un estudio de caso en dos licenciaturas: Arquitectura y Biotecnología, en una universidad pública mexicana.'
+open_access: 1
 ---
 
 El objetivo del estudio es analizar los obstáculos que afronta el profesorado universitario para la enseñanza de la creatividad, y concretar actuaciones educativas que superan estos obstáculos. Se presenta un estudio de caso en dos licenciaturas: Arquitectura y Biotecnología, en una universidad pública mexicana. El conjunto de datos analizados se obtuvo mediante tres técnicas de la metodología comunicativa: se entrevistó a ocho profesores, se realizaron tres grupos de discusión con alumnos y se realizaron dos observaciones en clases. El caso estudiado evidencia cómo la actitud hacia la creatividad, las habilidades del profesorado y el método de enseñanza tienen relación directa en el progreso del pensamiento creativo de los estudiantes. Los participantes demandan que desde la investigación se evidencien aquellas actuaciones educativas que garantizan la formación exitosa de las capacidades y competencias creativas del profesorado y de los estudiantes.

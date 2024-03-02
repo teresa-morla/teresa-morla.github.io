@@ -5,7 +5,7 @@ permalink: /publication/2020-04-20-creative-friendship-and-political-diversity
 date: 2020-04-20
 venue: 'Journal of Social and Personal Relationships'
 paperurl: 'http://doi.org/10.1177/0265407520916827'
-citation: 'Garcia Yeste, C., Joanpere, M., Rios, O., & Morla, T. (2020). Creative Friendship and Political Diversity in Catalonia. Journal of Social and Personal Relationships.'
+citation: 'Garcia Yeste, C., Joanpere, M., Rios, O., & Morla, T. (2020). Creative Friendship and Political Diversity in Catalonia.'
 category: 'paper'
 jcr: 'Q1'
 scopus: 'Q1'

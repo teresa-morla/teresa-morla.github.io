@@ -7,3 +7,9 @@
 {% if site.category_archive.type and page.categories[0] %}
   {% include category-list.html %}
 {% endif %}
+
+{% if page.open_access %}
+<p>
+  <img src="{{ base_path }}/images/open-access.svg" alt="Open Access" style="height: 22px; margin-top: -5px;" title="Open Access"> Open Access
+</p>
+{% endif %}
