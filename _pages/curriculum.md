@@ -11,8 +11,8 @@ redirect_from:
 
 ## Education
 
-* 2019 - **Ph.D. Sociology** (Distinction award). Dissertation title: "The impact of creativity. Case study in the field of architecture and biotechnology". Qualification: Excellent *Cum Laude*. [Universitat Rovira i Virgili]
-* 2015 - **Master's degree "Sociological Research"**. Dissertation title: "Sense and meaning of dialogic literary gatherings with Muslim mothers" .[Universitat de Barcelona].
+* 2019 - **Ph.D. Sociology** (Distinction award). Dissertation title: *The impact of creativity. Case study in the field of architecture and biotechnology*. Qualification: Excellent Cum Laude. [Universitat Rovira i Virgili]
+* 2015 - **Master's degree "Sociological Research"**. Dissertation title: *Sense and meaning of dialogic literary gatherings with Muslim mothers*. [Universitat de Barcelona].
 * 2013 - **Degree in Early Childhood Education**. [Universitat Rovira i Virgili]
 
 ## Professional activities
