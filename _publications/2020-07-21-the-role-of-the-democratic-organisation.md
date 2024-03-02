@@ -3,10 +3,10 @@ title: "The Role of the Democratic Organisation in the La Borda Housing Cooperat
 collection: publications
 permalink: /publication/2020-07-21-the-role-of-the-democratic-organisation
 date: 2020-07-21
-excerpt: "Grassroots initiatives have emerged in Spain demanding the right to decent housing. La Borda offers an alternative to free market dynamics. Its democratic organization has promoted the project's success. Residents' involvement increased their capacities, leadership and bonds."
-citation: 'Girbés-Peco, S., Joanpere, M., Mara, L., & Morla-Folch, T. (2020). The Role of the Democratic Organisation in the La Borda Housing Cooperative in Spain.'
-venue: 'Habitat International, 102.'
+venue: 'Habitat International'
 paperurl: 'https://doi.org/10.1016/j.habitatint.2020.102208'
+citation: 'Girbés-Peco, S., Joanpere, M., Mara, L., & Morla-Folch, T. (2020). The Role of the Democratic Organisation in the La Borda Housing Cooperative in Spain. Habitat International, 102.'
+excerpt: "Grassroots initiatives have emerged in Spain demanding the right to decent housing. La Borda offers an alternative to free market dynamics. Its democratic organization has promoted the project's success. Residents' involvement increased their capacities, leadership and bonds."
 category: 'paper'
 jcr: 'Q1'
 scopus: 'Q1'

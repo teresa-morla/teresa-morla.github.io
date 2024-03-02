@@ -3,12 +3,10 @@ title: "Transforming Rural Education in Colombia through Family Participation: T
 collection: publications
 permalink: /publication/2020-02-27-transforming-rural-education-in-colombia
 date: 2020-02-27
-venue: 'Journal of Social Science Education 4'
-citation: 'Soler, M., Morlà-Folch, T., García-Carrión, R., & Valls, R. (2020). Transforming Rural Education in Colombia through Family Participation: The Case of School as a Learning Community.'
+venue: 'Journal of Social Science Education'
+citation: 'Soler, M., Morlà-Folch, T., García-Carrión, R., & Valls, R. (2020). Transforming Rural Education in Colombia through Family Participation: The Case of School as a Learning Community. Journal of Social Science Education, 4-2020, 67-80.'
 paperurl: 'https://doi.org/10.4119/jsse-3251'
-page: '67-80'
 category: 'paper'
-scopus: 'Q3'
 ---
 
 **Purpose:** This article studies the impact of the implementation of learning communities in a rural context of Colombia, specifically concerning the improvements related to learning and social cohesion.

@@ -5,7 +5,7 @@ permalink: /publication/2021-10-15-improving-students-academic-performance
 date: 2021-10-15
 venue: 'Cambridge Journal of Education'
 paperurl: 'https://doi.org/10.1080/0305764X.2021.1973374'
-citation: "Rodriguez-Oramas, A.; Morla-Folch, T.; Vieites Casado, M. & Ruiz-Eugenio, L. (2021). Improving Students' Academic Performance and Reducing Conflicts through Family Involvement in Primary School Learning Activities: A Mexican Case Study."
+citation: "Rodriguez-Oramas, A.; Morla-Folch, T.; Vieites Casado, M. & Ruiz-Eugenio, L. (2021). Improving Students' Academic Performance and Reducing Conflicts through Family Involvement in Primary School Learning Activities: A Mexican Case Study. Cambridge Journal of Education."
 category: 'paper'
 jcr: 'Q2'
 socpus: 'Q1'

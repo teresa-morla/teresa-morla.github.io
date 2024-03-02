@@ -3,10 +3,8 @@ title: "Aspectos Espaciales de la Creatividad y la Innovación"
 collection: publications
 permalink: /publication/2019-05-01-aspectos-espaciales-de-la-creatividad-y-la-innovacion
 date: 2019-05-01
-venue: 'Economía, Sociedad y Territorio, XIX'
-volume: '60'
-pages: '1-24'
-citation: "Morlà, T. & Brunet, I. (2019). Aspectos Espaciales de la Creatividad y la Innovación."
+venue: 'Economía, Sociedad y Territorio'
+citation: "Morlà, T. & Brunet, I. (2019). Aspectos Espaciales de la Creatividad y la Innovación. Economía, Sociedad y Territorio, XIX(60), 1-24."
 paperurl: "https://doi.org/10.22136/est20191292"
 category: 'paper'
 ---

@@ -5,7 +5,7 @@ permalink: /publication/2020-07-29-wiego-communicative-daily-life-stories
 date: 2020-07-29
 venue: 'Qualitative Inquiry'
 paperurl: 'https://doi.org/10.1177/1077800420938680'
-citation: 'Tellado, I., Lepori, B., & Morla-Folch, T. (2020). WIEGO: Communicative Daily Life Stories to Assess Social Impact in the Lives of Informal Workers.'
+citation: 'Tellado, I., Lepori, B., & Morla-Folch, T. (2020). WIEGO: Communicative Daily Life Stories to Assess Social Impact in the Lives of Informal Workers. Qualitative Inquiry.'
 category: 'paper'
 jcr: 'Q1'
 scopus: 'Q1'
