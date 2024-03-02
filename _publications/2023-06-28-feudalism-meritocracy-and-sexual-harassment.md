@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2023-06-28-feudalism-meritocracy-and-sexual-harassment
 excerpt: 'Scientific literature has clarified that the contexts of more intense power relations favor sexual harassment and impunity. This article presents the results of a research that has analyzed a legislation aimed at combating sexual harassment that preceded six months earlier the selection and evaluation of faculty'
 date: 2023-06-28
-venue: 'Social and Education History. Vol. 12 No. 2 (2023)'
+citation: 'Bordanoba-Gallego, L.; Serradell, O.; Morlà-Folch, T.; Ruiz-Eugenio, L. & Pulido, C. (2023). Feudalism, Meritocracy and Sexual Harassment.'
+venue: 'Social and Education History'
 paperurl: 'https://doi.org/10.17583/hse.11788'
-citation: 'Bordanoba-Gallego, L.; Serradell, O.; Morlà-Folch, T.; Ruiz-Eugenio, L. & Pulido, C. (2023). Feudalism, Meritocracy and Sexual Harassment. Social and Education History.'
 category: 'paper'
 
 ---
