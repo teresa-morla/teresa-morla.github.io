@@ -3,9 +3,11 @@ title: "Create Solidarity Networks: Dialogs in Reddit to Overcome Depression and
 collection: publications
 permalink: /publication/2021-11-13-create-solidarity-networks
 date: 2021-11-13
-venue: 'International Journal of Environmental Research and Public Health'
+venue: 'International Journal of Environmental Research and Public Health, 18'
 paperurl: 'https://doi.org/10.3390/ijerph182211927'
-citation: 'Redondo-Sama, G., Morlà-Folch, T., Burgués, A., Amador, J,, & Magaraggia,S. (2021). Create Solidarity Networks: Dialogs in Reddit to Overcome Depression and Suicidal Ideation among Males. International Journal of Environmental Research and Public Health, 18(22), 11927.'
+citation: 'Redondo-Sama, G., Morlà-Folch, T., Burgués, A., Amador, J,, & Magaraggia,S. (2021). Create Solidarity Networks: Dialogs in Reddit to Overcome Depression and Suicidal Ideation among Males.'
+volume: '22'
+pages: '11927'
 category: 'paper'
 jcr: 'Q1'
 scopus: 'Q1'

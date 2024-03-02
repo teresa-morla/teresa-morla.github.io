@@ -3,9 +3,9 @@ title: "Impact of the Extension of Learning Time on the Learning Space of the Pl
 collection: publications
 permalink: /publication/2020-03-impact-of-the-extension-of-learning-time
 date: 2020-03-01
-venue: 'Learning, Culture and Social Interaction'
+venue: 'Learning, Culture and Social Interaction, 24'
 paperurl: 'https://doi.org/10.1016/j.lcsi.2019.100369'
-citation: 'Morlà-Folch, T., Ríos González, O., Mara, L.C., & García Yeste, C. (2020). Impact of the Extension of Learning Time on the Learning Space of the Platform for People Affected by Mortgages Tarragona. Learning, Culture and Social Interaction, 24.'
+citation: 'Morlà-Folch, T., Ríos González, O., Mara, L.C., & García Yeste, C. (2020). Impact of the Extension of Learning Time on the Learning Space of the Platform for People Affected by Mortgages Tarragona.'
 category: 'paper'
 jcr: 'Q3'
 scopus: 'Q1'

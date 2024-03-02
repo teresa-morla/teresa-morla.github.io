@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-11-01-a-research-synthesis-of-the-impacts-of-successful-educational-actions
 date: 2022-11-01
 venue: 'Educational Research Review'
-citation: 'Morlà-Folch, T., Renta, A.I, Padrós, M. & Valls, R. (2022). A research synthesis of the impacts of successful educational actions on student outcome. Educational Research Review.'
+citation: 'Morlà-Folch, T., Renta, A.I, Padrós, M. & Valls, R. (2022). A research synthesis of the impacts of successful educational actions on student outcome.'
 paperurl: 'https://doi.org/10.1016/j.edurev.2022.100482'
 category: 'paper'
 jcr: 'Q1'
