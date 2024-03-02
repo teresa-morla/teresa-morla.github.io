@@ -2,7 +2,7 @@
 permalink: /
 title: "About"
 author_profile: true
-excerpt: "Dr. Morlà research activity has mainly focused on social transformation studies, on the inclusion of all people through dialogic environments. Through the concept of a dialogic environment, he has also focused on creative skills, a line of research started during his doctoral thesis to respond to new social challenges in educational and work environments. "
+excerpt: "Dr. Morlà research activity has mainly focused on social transformation studies, on the inclusion of all people through dialogic environments. Through the concept of a dialogic environment, she has also focused on creative skills, a line of research started during his doctoral thesis to respond to new social challenges in educational and work environments."
 redirect_from:
   - /about/
   - /about.html
