@@ -5,10 +5,8 @@ permalink: /publication/2020-05-12-inclusivity-participation-and-collaboration
 date: 2020-05-12
 venue: 'Educational Research'
 paperurl: 'https://doi.org/10.1080/00131881.2020.1755605'
-citation: "Zubiri-Esnaola, H., Vidu, A., Rios-Gonzalez, O., & Morla-Folch, T. (2020). Inclusivity, Participation and Collaboration: Learning in Interactive Groups."
+citation: "Zubiri-Esnaola, H., Vidu, A., Rios-Gonzalez, O., & Morla-Folch, T. (2020). Inclusivity, Participation and Collaboration: Learning in Interactive Groups. Educational Research."
 category: 'paper'
-jcr: 'Q3'
-scopus: 'Q2'
 ---
 
 **Background**: Interaction, participation and collaboration are thought to be important factors for supporting successful second or foreign language learning. The use of Interactive Groups (IGs) is regarded as helpful in creating the conditions in which interaction, participation and collaboration are increased to create effective dialogic learning. However, there is limited understanding of the role of IGs in supporting second or foreign language learning.

@@ -3,10 +3,9 @@ title: "Liderazgo Creador de Nuevas Realidades: Respuestas Cooperativas a los De
 collection: publications
 permalink: /publication/2018-12-21-liderazgo-creador-de-nuevas-realidades
 date: 2018-12-21
-venue: 'Revista Internacional de las Organizaciones, 21'
+venue: 'Revista Internacional de las Organizaciones'
 paperurl: 'https://doi.org/10.17345/rio21.127-147'
-pages: '127-147'
-citation: 'Joanpere, M. & Morlà, T. (2018). Liderazgo Creador de Nuevas Realidades. Respuestas Cooperativas a los Desafíos de la Vivienda.'
+citation: 'Joanpere, M. & Morlà, T. (2018). Liderazgo Creador de Nuevas Realidades. Respuestas Cooperativas a los Desafíos de la Vivienda. Revista Internacional de las Organizaciones, 21, 127-147.'
 excerpt: 'Cooperative housing of different types has been established in many countries; however, in Spain it is still a recent initiative. Given this reality, this research focuses on the role of leadership in cooperative housing in Catalonia, as well as on the democratic and innovative capacity within it.'
 category: 'paper'
 ---
