@@ -27,6 +27,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+<a name="top"></a>
 1. [Papers](#paper) ({{ papersCount }})
 2. [Scientific-technical reports](#scientific-technical-reports) ({{ reportsCount }})
 3. [Books and chapters](#books-and-chapters) ({{ booksCount }})
@@ -34,7 +35,7 @@ author_profile: true
 ## Papers
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my papers on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
@@ -45,6 +46,8 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+<a href="#top">▲ Back to top</a>
+
 <a name="report"></a>
 ## Scientific-technical reports
 
@@ -54,6 +57,8 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+<a href="#top">▲ Back to top</a>
+
 <a name="book"></a>
 ## Books and chapters
 
@@ -62,3 +67,5 @@ author_profile: true
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+<a href="#top">▲ Back to top</a>
