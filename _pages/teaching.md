@@ -7,9 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+<a id="top"></a>
 1. [University](#university) ({{ site.teaching | size }})
-2. [Supervision of Master's Thesis](#master-thesis)
-3. [Teaching innovation projects](#innovation-projects)
+2. [Supervision of Master's Thesis](#master-thesis) (12)
+3. [Teaching innovation projects](#innovation-projects) (3)
 
 <a name="university"></a>
 ## University
@@ -17,6 +18,8 @@ author_profile: true
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+[▲ Back to top](#top)
 
 <a name="master-thesis"></a>
 ## Supervision of Master's Thesis
@@ -81,6 +84,8 @@ author_profile: true
 - **Presentation Date:** 27/09/2023
 - **Institution:** Universitat de Barcelona
 
+[▲ Back to top](#top)
+
 <a name="innovation-projects"></a>
 ## Teaching innovation projects
 
@@ -104,3 +109,5 @@ author_profile: true
 - **Principal Investigator (PI):** Sandra Girbés Peco
 - **Type:** Teaching Innovation Project
 - **Institution:** Universitat Rovira i Virgili
+
+[▲ Back to top](#top)

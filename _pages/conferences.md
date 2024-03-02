@@ -27,6 +27,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+<a name="top"></a>
 1. [International](#international) ({{ internationalCount }})
 2. [European](#european) ({{ europeanCount }})
 3. [National](#national) ({{ nationalCount }})
@@ -41,6 +42,8 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+[▲ Back to top](#top)
+
 ## European
 
 {% for post in site.conferences reversed %}
@@ -49,6 +52,8 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+[▲ Back to top](#top)
+
 ## National
 
 {% for post in site.conferences reversed %}
@@ -56,3 +61,5 @@ author_profile: true
     {% include archive-single-talk.html %}
   {% endif %}
 {% endfor %}
+
+[▲ Back to top](#top)

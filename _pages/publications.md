@@ -46,7 +46,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<a href="#top">▲ Back to top</a>
+[▲ Back to top](#top)
 
 <a name="report"></a>
 ## Scientific-technical reports
@@ -57,7 +57,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<a href="#top">▲ Back to top</a>
+[▲ Back to top](#top)
 
 <a name="book"></a>
 ## Books and chapters
@@ -68,4 +68,4 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<a href="#top">▲ Back to top</a>
+[▲ Back to top](#top)
