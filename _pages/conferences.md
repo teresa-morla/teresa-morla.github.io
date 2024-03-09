@@ -10,7 +10,7 @@ author_profile: true
 {% assign europeanCount = 0 %}
 
 {% for post in site.conferences %}
-  {% if post.type == 'international' %}
+  {% if post.type == 'international' or post.type == 'european' %}
     {% assign internationalCount = internationalCount | plus: 1 %}
   {% endif %}
 {% endfor %}
@@ -21,33 +21,16 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-{% for post in site.conferences %}
-  {% if post.type == 'european' %}
-    {% assign europeanCount = europeanCount | plus: 1 %}
-  {% endif %}
-{% endfor %}
-
 <a name="top"></a>
-1. [International](#international) ({{ internationalCount }})
-2. [European](#european) ({{ europeanCount }})
-3. [National](#national) ({{ nationalCount }})
+1. [International / European](#international) ({{ internationalCount }})
+2. [National](#national) ({{ nationalCount }})
 
 {% include base_path %}
 
 ## International
 
 {% for post in site.conferences reversed %}
-  {% if post.type == 'international' %}
-    {% include archive-single-talk.html %}
-  {% endif %}
-{% endfor %}
-
-[▲ Back to top](#top)
-
-## European
-
-{% for post in site.conferences reversed %}
-  {% if post.type == 'european' %}
+  {% if post.type == 'international' or post.type == 'european' %}
     {% include archive-single-talk.html %}
   {% endif %}
 {% endfor %}
