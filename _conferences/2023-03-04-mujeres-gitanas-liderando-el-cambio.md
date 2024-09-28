@@ -2,7 +2,7 @@
 title: "Mujeres gitanas liderando el cambio"
 collection: Conferences
 type: "international"
-permalink: /conferences/2024-03-04-mujeres-gitanas-liderando-el-cambio
+permalink: /conferences/2023-03-04-mujeres-gitanas-liderando-el-cambio
 venue: "CICFEM"
 date: 2023-03-03
 location: "Valencia, Spain"
