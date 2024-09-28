@@ -17,6 +17,11 @@ redirect_from:
 
 ## Professional activities
 
+* *June 2024 - now*
+  * Lecturer
+  * [Universitat Rovira i Virgili]
+  * Full-time
+    
 * *September 2020 - February 2022 (1 year 6 months)*
   * Editorial Assistant. International Sociology
   * SAGE Publications - [Universitat de Barcelona]
