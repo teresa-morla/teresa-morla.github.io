@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ## Teaching (since 2024)
-[Teaching at the Universitat Rovira i Virgili] (https://www.urv.cat/html/grupsrecerca/investigadors/docencia-I51409.php)
+[Teaching at the Universitat Rovira i Virgili](https://www.urv.cat/html/grupsrecerca/investigadors/docencia-I51409.php)
 
 ## Teaching (until 2024)
 <a id="top"></a>
