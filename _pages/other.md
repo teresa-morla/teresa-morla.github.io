@@ -21,17 +21,16 @@ author_profile: true
 
 ## Recognitions
 
-- **February 2022 – Present**: **Juan de la Cierva Fellowship** (Competitive government contract: State Plan for Scientific and Technical Research and Innovation, Spain).
+- **February 2022 – February 2024**: **Juan de la Cierva Fellowship** (Competitive government contract: State Plan for Scientific and Technical Research and Innovation, Spain).
 - **March 2016 – March 2019**: **FI Predoctoral Fellowship**, awarded by the Catalan Government. Host institution: Department of Business Management, URV.
 - **October 2015 – February 2016**: **Predoctoral Fellowship: Martí Franquès**, Universitat Rovira i Virgili. Host institution: Department of Business Management, URV.
 
 ## Positions
 
-- **July 2023 – Present**: **Secretary of the Board at the Catalan Association of Sociology.**
+- **July 2023 – June 2024**: **Secretary of the Board at the Catalan Association of Sociology.**
 
 ## Editorial Board Member
 
-- **2016 – Present**: Assistant Editor of RASP. Research on Ageing and Social Policy.
 
 ## Organizing Committee for Conferences
 
@@ -40,11 +39,10 @@ author_profile: true
 
 ## Participation in Scientific Committees
 
-- **2023 – Present**: Coordinator of the Educational Leadership theme at CIMIE.
+- **2023 – 2024**: Coordinator of the Educational Leadership theme at CIMIE.
 - **2017 – 2019**: Coordinator of the Economy and Education theme at CIMIE.
-- **2015 – Present**: Reviewer for the International Multidisciplinary Congress on Educational Research (CIMIE).
-- **2016 – Present**: Coordinator of the Economics, Education, and Work theme at CIMIE.
-- **2016 – Present**: Reviewer for the journal *Social History and Education* by Hipatia Press.
-- **2016 – Present**: Reviewer for the journal *Masculinities and Social Change* by Hipatia Press.
-- **2016 – Present**: Reviewer for the *Multidisciplinary Journal of Educational Research* by Hipatia Press.
+- **2015 – 2024**: Reviewer for the International Multidisciplinary Congress on Educational Research (CIMIE).
+- **2016 – 2018**: Coordinator of the Economics, Education, and Work theme at CIMIE.
+- **2016 – 2024**: Reviewer for the journal *Social History and Education* by Hipatia Press.
+- **2016 – 2024**: Reviewer for the journal *Masculinities and Social Change* by Hipatia Press.
 - **2014 - 2016**: Coordinator of the Early Childhood and Primary Education theme at CIMIE.
