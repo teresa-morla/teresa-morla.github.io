@@ -36,7 +36,7 @@ author_profile: true
   * **Funder:** Ministerio de Ciencia e Innovación. Code: PID2021-122575NB-I00.
   * **Main researcher:** Ana Beatriz Hernandez y Amado Alarcón
 
-  * Diálogo+Ciencia. *Grupos vulnerables en el debate sobre evidencias científicas para la educación de calidad y la igualda de genero.* (2022-2026)
+* Diálogo+Ciencia. *Grupos vulnerables en el debate sobre evidencias científicas para la educación de calidad y la igualda de genero.* (2022-2026)
     * **Funder:** Fundación Española para la Ciencia y la Tecnología, Ministerio de Ciencia e Innovación del Gobierno de España
   * **Main researcher:** Adriana Aubert
 
