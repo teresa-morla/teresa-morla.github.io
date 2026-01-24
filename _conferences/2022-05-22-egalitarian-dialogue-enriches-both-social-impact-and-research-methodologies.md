@@ -3,8 +3,9 @@ title: "Egalitarian dialogue enriches both social impact and research methodolog
 collection: Conferences
 type: "international"
 permalink: /conferences/2022-05-22-egalitarian-dialogue-enriches-both-social-impact-and-research-methodologies
-venue: "8th International Congress of Qualitative Inquiry"
+venue: "18th International Congress of Qualitative Inquiry"
+organizator: "University of Illinois at Urbana-Champaign"
 date: 2022-05-22
 location: "Online"
-citation: "Merodio, G., & Morlà, T. (2022). 8th International Congress of Qualitative Inquiry. Egalitarian dialogue enriches both social impact ans reserch methodologies (18-22 maig, 2022)"
+citation: "Merodio, G.; & Morlà, T. (2022). 8th International Congress of Qualitative Inquiry. Egalitarian dialogue enriches both social impact ans reserch methodologies (18-22 maig, 2022)"
 ---
