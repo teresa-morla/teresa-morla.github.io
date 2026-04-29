@@ -8,6 +8,15 @@ author_profile: true
 
 {% include base_path %}
 
+## Ongoing projects
+* [GENEDSO. *Formació Universitària per a la Prevenció i l'Abordatge de la Violència de Gènere en l'Àmbit Socioeducatiu*](https://projectes-recerca.gitlab.io/genedso/) (2025-2027)
+  * **Funder:** AGAUR – Agència de Gestió d’Ajuts Universitaris i de Recerca Code: 2024 INDOV 00011
+  * **Main researcher:** Teresa Morlà-folch
+
+* AI2LEAD. *Artificial Intelligence Skills Lab: Fostering Educational Leadership to transform society.* (2023-2026)
+  * **Funder:** Ministerio de Ciencia e Innovación. Code: PID2022-141659OB-100.
+  * **Main researcher:** Mar Camacho
+
 ## European projects
 * HEI4DIVERSITY. *Building capacities to prevent and respond to any form of violence against the LGBTQI+ community higher education institutions in Europe* (2019-2021).
   * **Funder:** ERASMUS+. Code: 2019-1-ES01-KA203-064121.
@@ -24,15 +33,7 @@ author_profile: true
 
 ## National/regional projects
 
-* GENEDSO. *Formació Universitària per a la Prevenció i l'Abordatge de la Violència de Gènere en l'Àmbit Socioeducatiu* (2025-2027)
-  * **Funder:** AGAUR – Agència de Gestió d’Ajuts Universitaris i de Recerca Code: 2024 INDOV 00011
-  * **Main researcher:** Teresa Morlà-folch
-
-* AI2LEAD. *Artificial Intelligence Skills Lab: Fostering Educational Leadership to transform society.* (2023-2026)
-  * **Funder:** Ministerio de Ciencia e Innovación. Code: PID2022-141659OB-100.
-  * **Main researcher:** Mar Camacho
-
-  * ALODIGI-LITERATOS. *Alfabetizaciones y Ocupación en la Era Digital.* (2022-2026)
+* ALODIGI-LITERATOS. *Alfabetizaciones y Ocupación en la Era Digital.* (2022-2026)
   * **Funder:** Ministerio de Ciencia e Innovación. Code: PID2021-122575NB-I00.
   * **Main researcher:** Ana Beatriz Hernandez y Amado Alarcón
 
