@@ -17,7 +17,9 @@ author_profile: true
   * **Funder:** Ministerio de Ciencia e Innovación. Code: PID2022-141659OB-100.
   * **Main researcher:** Mar Camacho
 
-## European projects
+## Completed projects
+
+### European projects
 * HEI4DIVERSITY. *Building capacities to prevent and respond to any form of violence against the LGBTQI+ community higher education institutions in Europe* (2019-2021).
   * **Funder:** ERASMUS+. Code: 2019-1-ES01-KA203-064121.
   * **Main researcher:** Oriol Ríos
@@ -31,7 +33,7 @@ author_profile: true
   * **Funder:** MSCA-RISE-2014 Marie Sktodowska-Curie Research and Innovation and Innovation Staff Exchange (RISE). Code: 645668.
   * **Main researcher:** Aitor Goméz
 
-## National/regional projects
+### National/regional projects
 
 * ALODIGI-LITERATOS. *Alfabetizaciones y Ocupación en la Era Digital.* (2022-2026)
   * **Funder:** Ministerio de Ciencia e Innovación. Code: PID2021-122575NB-I00.
@@ -41,24 +43,8 @@ author_profile: true
     * **Funder:** Fundación Española para la Ciencia y la Tecnología, Ministerio de Ciencia e Innovación del Gobierno de España
   * **Main researcher:** Adriana Aubert
 
-## Others
+### Others
 * *Dialogical Literary Gatherings in Pakistan: improving the right to education of families of children with special needs and your communities.* (2023-2024)
   * **Funder:** Universitat Rovira i Virgili
   * **Main researcher:** Gisela Redondo
   * **Financing amount:** 1.440,00 €.
-
----
-
-
-
----
-
-
-
-
----
-
-
-
----
-
